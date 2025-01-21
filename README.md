@@ -1,6 +1,6 @@
 # 🕸 WebServ 🤖
 
-> This repository contains a "webserv" project that is part of the École 42 curriculum.
+> This repository contains the "webserv" project that is part of the École 42 curriculum.
 
 Webserv project involves creating a web server that handles HTTP requests. In order to understand the project, it's important to have a good understanding of the HTTP protocol and the main concepts of a web server.
 
